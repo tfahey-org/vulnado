@@ -27,4 +27,3 @@ The docker network created by `docker-compose` maps pretty well to a multi-tier 
 TEST
 TEST2
 TEST3
-TEST4
